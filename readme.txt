@@ -1,3 +1,4 @@
+备注：作者已不再继续维护此插件，无法从wordpress插件库中下载。
 === WP Chinese Conversion ===
 Contributors: Ono Oogami
 Donate link: https://oogami.name/donate/
